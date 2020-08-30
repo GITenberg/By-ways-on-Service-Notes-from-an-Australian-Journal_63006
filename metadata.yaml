@@ -1,11 +1,16 @@
 _repo: By-ways-on-Service-Notes-from-an-Australian-Journal_63006
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63006-h/images/cover.jpg
 creator:
   author:
     agent_name: Dinning, Hector
     gutenberg_agent_id: '52223'
     url: http://www.gutenberg.org/2009/agents/52223
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63006#By-ways-on-Service-Notes-from-an-Australian-Journal
 gutenberg_issued: '2020-08-22'
 gutenberg_type: Text
 identifiers:
